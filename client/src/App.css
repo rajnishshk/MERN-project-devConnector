@@ -313,23 +313,6 @@ button {
   opacity: 0.9;
 }
 
-/* ------------------------ */
-/* Assuming your Navbar has a fixed height */
-.navbar {
-  height: 60px; /* Example height */
-  position: fixed;
-  width: 100%;
-  top: 0;
-  z-index: 1000; /* To make sure it stays on top */
-}
-
-.components {
-  margin-top: 60px; /* Adjust this to match the height of your Navbar */
-}
-
-/* ----------------------- */
-
-
 .navbar ul {
   display: flex;
 }
